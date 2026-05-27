@@ -1,0 +1,11 @@
+{
+  "project_id": "proj_bf78d129dc70",
+  "name": "project 1",
+  "description": "demo description",
+  "os": "mac",
+  "os_version": "macos-bigsur",
+  "default_browser": "webkit",
+  "test_case_count": 0,
+  "pushed_at": "2026-05-27T19:59:16.642145",
+  "test_cases": []
+}
